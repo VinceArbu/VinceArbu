@@ -1,4 +1,3 @@
-#CSE 340 - Winter 2021
 Name: Vince Joseph Arbutante
 Emails:
 Gmail - vincejosepharbutante@gmail.com
