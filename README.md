@@ -22,7 +22,7 @@
 <br>
 <h2> Simple Git Cheat Sheet for Smoother Coding</h2>
 
-''' html
+'''html
 sample Text
 
 '''
