@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I like my KPOP biases**
 
-- 📄 Know about my experiences **I am currently a 2nd-year college student, actively engaging in school organizations. 🌐🎓**
+- 📄 Know about my experiences **I am currently a 2nd-year college student, actively engaging in school organizations, and currently enrolled in Mapúa Malayan Colleges Laguna 🌐🎓**
 
 <br>                
 <h2 align="left">Affiliated Organizations🤝</h2>
