@@ -1,4 +1,4 @@
-<img src="https://ingredient-generation-generated-ingredients.canva.com/1f246c85-54df-47aa-a564-f86e4d958850?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHQLRPZXQM%2F20231222%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231222T025512Z&X-Amz-Expires=106950&X-Amz-Signature=ce41d0243b196500b3943427860b7a4b8d7f715d2e1cc71b94cc27a76f2959f4&X-Amz-SignedHeaders=host%3Bx-amz-expected-bucket-owner&response-expires=Sat%2C%2023%20Dec%202023%2008%3A37%3A42%20GMT" width="100%">
+<img src="https://i.pinimg.com/originals/1e/7d/d6/1e7dd6800a6ad9862861c878cfcc2fb2.gif" width="100%">
 
 
 <h1 align="center">Kamusta! <img src="https://i.pinimg.com/originals/4c/23/63/4c236364db3543337354bc3acc1fe792.gif" width="28">, I'm Vince Joseph Arbutante</h1>
