@@ -20,13 +20,14 @@
 <a href="https://www.facebook.com/mapuamclacm" target="blank"><img align="center" src="https://scontent.fpag2-1.fna.fbcdn.net/v/t39.30808-6/332149544_656516343156640_3904913255349987810_n.jpg?_nc_cat=102&cb=99be929b-b574a898&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeG0HrJdzO6MjbTOlvF-MBlR_jlJ8q4v1Q3-OUnyri_VDSwSYqnYsJ8IkibI6CB6-CJzrFkZOq5IFcy01TVxIHhA&_nc_ohc=hOAOI-zm7t8AX_l7Ljx&_nc_ht=scontent.fpag2-1.fna&oh=00_AfBaB9VwGdYWrkroUPLrVHLz8C4k41jlSG3CEpwmIoZMJQ&oe=6589DFF1" height="40" width="40" /></a>
 </p>
 
+
 <h2 align="left">How to reach me📫</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@vincearbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vincearbu" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100005338458681" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vincejosepharbutante" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@binsarbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@binsarbu" height="30" width="40" /></a> </p>
-<a href="https://discord.gg/cocute13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cocute13" height="30" width="40" /></a> </p>
+<a href="https://discord.gg/cocute13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cocute13" height="30" width="40" /></a>
 
 <h3 align="left">My Programming Languages and Tools Literacy:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
