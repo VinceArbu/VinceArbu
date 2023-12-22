@@ -13,10 +13,10 @@
 
                   
 <h2 align="left">Organizations I joined🤝</h2>
-<h3>- Junior Philippine Computer Society of Mapúa Malayan Colleges Laguna (JPCS - Mapúa MCL)</h3> 
-<h3>- Association for Computing Machinery (Mapúa MCL ACM Student Chapter</h3> 
+<h3>-Junior Philippine Computer Society of Mapúa Malayan Colleges Laguna (JPCS - Mapúa MCL)</h3> 
+<h3>-Association for Computing Machinery (Mapúa MCL ACM Student Chapter</h3> 
 <p align="left">
-<a href="https://www.facebook.com/jpcs.mmcl.official" target="blank"><img align="center" src="https://scontent.fpag2-1.fna.fbcdn.net/v/t39.30808-6/398844077_1125575161826515_1425196930400881682_n.jpg?_nc_cat=105&cb=99be929b-b574a898&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeE-dXbeEWAMCOMlRI-MO0YyZ6xoNrMyCa5nrGg2szIJrrHZtovG0ZhMahd8OS60RUTLuwmgCQtoXNQ5rNdOG-ir&_nc_ohc=cdj-jTZ0p9MAX_AYatW&_nc_ht=scontent.fpag2-1.fna&oh=00_AfDxv-IjmwKwqKP5xn5WXW_QC0MDWGxTZL61Gjk09AQDCA&oe=658A7984" height="40" width="40" /></a> </p>
+<a href="https://www.facebook.com/jpcs.mmcl.official" target="blank"><img align="center" src="https://scontent.fpag2-1.fna.fbcdn.net/v/t39.30808-6/398844077_1125575161826515_1425196930400881682_n.jpg?_nc_cat=105&cb=99be929b-b574a898&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeE-dXbeEWAMCOMlRI-MO0YyZ6xoNrMyCa5nrGg2szIJrrHZtovG0ZhMahd8OS60RUTLuwmgCQtoXNQ5rNdOG-ir&_nc_ohc=cdj-jTZ0p9MAX_AYatW&_nc_ht=scontent.fpag2-1.fna&oh=00_AfDxv-IjmwKwqKP5xn5WXW_QC0MDWGxTZL61Gjk09AQDCA&oe=658A7984" height="40" width="40" /></a>
 <a href="https://www.facebook.com/mapuamclacm" target="blank"><img align="center" src="https://scontent.fpag2-1.fna.fbcdn.net/v/t39.30808-6/332149544_656516343156640_3904913255349987810_n.jpg?_nc_cat=102&cb=99be929b-b574a898&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeG0HrJdzO6MjbTOlvF-MBlR_jlJ8q4v1Q3-OUnyri_VDSwSYqnYsJ8IkibI6CB6-CJzrFkZOq5IFcy01TVxIHhA&_nc_ohc=hOAOI-zm7t8AX_l7Ljx&_nc_ht=scontent.fpag2-1.fna&oh=00_AfBaB9VwGdYWrkroUPLrVHLz8C4k41jlSG3CEpwmIoZMJQ&oe=6589DFF1" height="40" width="40" /></a>
 </p>
 
