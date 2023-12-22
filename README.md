@@ -14,7 +14,7 @@
 -  <br>**Junior Philippine Computer Society of Mapúa Malayan Colleges Laguna (JPCS - Mapúa MCL)** <br>**Association for Computing Machinery (Mapúa MCL ACM Student Chapter)**
                    
 
-<h2 align="left">🤝 Organizations I joined</h2>
+<h3 align="left">🤝 Organizations I joined</h3>
 
 
 <h2 align="left">📫 How to reach me</h2>
