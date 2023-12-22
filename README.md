@@ -22,7 +22,5 @@
 <br>
 <h2> Simple Git Cheat Sheet for Smoother Coding</h2>
 
-'''html
-sample Text
-
-'''
+1. **git init**
+initialize an existing directory as a Git repository
