@@ -22,8 +22,9 @@
 <br>
 <h2> Simple Git Cheat Sheet for Smoother Coding</h2>
 
-1. **git init**
-   Description: Adds changes in the working directory to the staging area, preparing the for the next commit.
-   Usage: git add [file(s)] or git add .
-   Example: git add hello_world.txt (adds the specific file) or add git . (adds all changes)
 
+```html
+1. **git init**
+   initialize an existing directory as a Git repository
+
+```
