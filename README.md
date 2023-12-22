@@ -4,10 +4,12 @@
 <h1 align="center">Kamusta! <img src="https://i.pinimg.com/originals/4c/23/63/4c236364db3543337354bc3acc1fe792.gif" width="40">, I'm Vince Joseph Arbutante</h1>
 <h3 align="center">Currently a Computer Science student from the Philippines</h3>
 
+
 - 🌱 I’m currently learning **the art of digital mastery with Computer-related courses and Programming Languages**
 
 - ⚡ Fun fact **I like my KPOP biases**
 
+- 📄 Know about my experiences **I am currently a 2nd-year college student**
 
 <h3 align="left">📫 **How to reach me**</h3>
 <h3 align="left">Connect with me:</h3>
