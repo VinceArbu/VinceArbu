@@ -22,7 +22,13 @@
 <br>
 <h2> Simple Git Cheat Sheet for Smoother Coding</h2>
 
-1. **git init**
-   <br>initialize an existing directory as a Git repository</br>
+**git init**
+<br>-initialize an existing directory as a Git repository</br>
+
+**git clone [url]**
+<br>-retrieve an entire repository from a hosted location via URL</br>
+
+**git log**
+<br>-show the commit history for the currently active branch</br>
 
 
