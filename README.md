@@ -1,7 +1,7 @@
 <h1 align="center">Kamusta! 👋, I'm Vince Joseph Arbutante</h1>
 <h3 align="center">Currently a Computer Science student from Philippines</h3>
 
-- 🌱 I’m currently learning **database,dsa, and other programming languages**
+- 🌱 I’m currently learning **Computer-related courses (Computer Science)**
 
 - ⚡ Fun fact **I like my biases(kpop)**
 
