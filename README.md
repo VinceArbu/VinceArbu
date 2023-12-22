@@ -31,4 +31,9 @@
 **git log**
 <br> -show the commit history for the currently active branch
 
+**git add [file]**
+<br> -add a file as it looks now to your next commit (stage)
+
+**git reset [file]**
+<br> -unstage a file while retaining the changes in working directory
 
