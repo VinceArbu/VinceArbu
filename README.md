@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences **I am currently a 2nd-year college student, actively engaging in school organizations. 🌐🎓**
 
-- 🤝 Organizations joined: <br>**Junior Philippine Computer Society of Mapúa Malayan Colleges Laguna (JPCS - Mapúa MCL)** <br>**Association for Computing Machinery Student Chapter (Mapúa MCL ACM)**
+- 🤝 Organizations joined: <br>**Junior Philippine Computer Society of Mapúa Malayan Colleges Laguna (JPCS - Mapúa MCL)** <br>**Association for Computing Machinery (Mapúa MCL ACM Student Chapter)**
                    
                       
 <h2 align="left">📫 How to reach me</h2>
