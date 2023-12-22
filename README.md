@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/1e/7d/d6/1e7dd6800a6ad9862861c878cfcc2fb2.gif" width="100%">
 
 
-<h1 align="center">Kamusta! <img src="https://i.pinimg.com/originals/4c/23/63/4c236364db3543337354bc3acc1fe792.gif" width="50">, I'm Vince Joseph Arbutante</h1>
+<h1 align="center">Kamusta! <img src="https://i.pinimg.com/originals/4c/23/63/4c236364db3543337354bc3acc1fe792.gif" width="40">, I'm Vince Joseph Arbutante</h1>
 <h3 align="center">Currently a Computer Science student from Philippines</h3>
 
 - 🌱 I’m currently learning **the art of digital mastery with Computer-related courses and Programming Languages**
