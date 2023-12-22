@@ -11,13 +11,14 @@
 
 - 📄 Know about my experiences **I am currently a 2nd-year college student, actively engaging in school organizations. 🌐🎓**
 
--  <br>**Junior Philippine Computer Society of Mapúa Malayan Colleges Laguna (JPCS - Mapúa MCL)** <br>**Association for Computing Machinery (Mapúa MCL ACM Student Chapter)**
+-  <br>**Association for Computing Machinery (Mapúa MCL ACM Student Chapter)**
                    
 
-<h2 align="left">🤝 Organizations I joined</h2>
+<h2 align="left">Organizations I joined🤝</h2>
+<h3>**Junior Philippine Computer Society of Mapúa Malayan Colleges Laguna (JPCS - Mapúa MCL)**</h3> 
 <a href="https://www.facebook.com/jpcs.mmcl.official" target="blank"><img align="center" src="https://scontent.fpag2-1.fna.fbcdn.net/v/t39.30808-6/398844077_1125575161826515_1425196930400881682_n.jpg?_nc_cat=105&cb=99be929b-b574a898&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeE-dXbeEWAMCOMlRI-MO0YyZ6xoNrMyCa5nrGg2szIJrrHZtovG0ZhMahd8OS60RUTLuwmgCQtoXNQ5rNdOG-ir&_nc_ohc=cdj-jTZ0p9MAX_AYatW&_nc_ht=scontent.fpag2-1.fna&oh=00_AfDxv-IjmwKwqKP5xn5WXW_QC0MDWGxTZL61Gjk09AQDCA&oe=658A7984" height="40" width="40" /></a>
 
-<h2 align="left">📫 How to reach me</h2>
+<h2 align="left">How to reach me📫</h2>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@vincearbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vincearbu" height="30" width="40" /></a>
