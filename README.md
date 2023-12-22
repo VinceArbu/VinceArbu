@@ -37,3 +37,10 @@
 **git reset [file]**
 <br> -unstage a file while retaining the changes in working directory
 
+**git stash**
+<br> -temporarily save modified and staged changes in the working directory that is not ready to be committed yet
+
+**git checkout [branch-name]**
+<br> -switch from the current branch to another existing branch
+
+
